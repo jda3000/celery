@@ -1,6 +1,6 @@
 celery==4.3.0
 Flask==1.0.2
-flower==0.9.3
+flower==1.2.0
 gunicorn==19.9.0
 redis==3.2.1
 
